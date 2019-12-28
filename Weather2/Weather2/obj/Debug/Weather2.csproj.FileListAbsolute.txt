@@ -1,0 +1,12 @@
+C:\Users\vlad0\source\repos\Weather2\Weather2\bin\Debug\Weather2.exe.config
+C:\Users\vlad0\source\repos\Weather2\Weather2\bin\Debug\Weather2.exe
+C:\Users\vlad0\source\repos\Weather2\Weather2\bin\Debug\Weather2.pdb
+C:\Users\vlad0\source\repos\Weather2\Weather2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vlad0\source\repos\Weather2\Weather2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vlad0\source\repos\Weather2\Weather2\obj\Debug\Weather2.csprojAssemblyReference.cache
+C:\Users\vlad0\source\repos\Weather2\Weather2\obj\Debug\Weather2.Form1.resources
+C:\Users\vlad0\source\repos\Weather2\Weather2\obj\Debug\Weather2.Properties.Resources.resources
+C:\Users\vlad0\source\repos\Weather2\Weather2\obj\Debug\Weather2.csproj.GenerateResource.cache
+C:\Users\vlad0\source\repos\Weather2\Weather2\obj\Debug\Weather2.csproj.CopyComplete
+C:\Users\vlad0\source\repos\Weather2\Weather2\obj\Debug\Weather2.exe
+C:\Users\vlad0\source\repos\Weather2\Weather2\obj\Debug\Weather2.pdb
